@@ -100,7 +100,7 @@ AI-powered blood availability monitoring and emergency blood request platform.
 ## 💻 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/IniyaManikandan?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/IniyaManikandan?theme=wtf&font=Nunito&ext=contest"/>
 </p>
 
 ---
