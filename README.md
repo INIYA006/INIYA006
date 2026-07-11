@@ -97,42 +97,10 @@ AI-powered blood availability monitoring and emergency blood request platform.
 
 ---
 
-## 📈 GitHub Stats
-
-> Replace **YOUR_GITHUB_USERNAME** with the actual username.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
 ## 💻 LeetCode
 
-Replace **YOUR_LEETCODE_USERNAME**
-
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/IniyaManikandan?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
 ---
@@ -154,15 +122,15 @@ Replace **YOUR_LEETCODE_USERNAME**
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://in.linkedin.com/in/iniya-manikandan-8a9325308">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_GITHUB">
+<a href="https://github.com/INIYA006">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/IniyaManikandan/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -171,7 +139,7 @@ Replace **YOUR_LEETCODE_USERNAME**
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=6C63FF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=INIYA006&label=Profile+Views&color=6C63FF&style=flat"/>
 </p>
 
 <h3 align="center">
